@@ -1,4 +1,4 @@
-# Design-an-Automatic-street-light-PCB-circuit-using-Eagle-software-and-generate-the-Gerber-file.
+![SCEMATIC EP4](https://github.com/user-attachments/assets/feadd94e-505c-4fb0-9439-b0cf7b53efc2)# Design-an-Automatic-street-light-PCB-circuit-using-Eagle-software-and-generate-the-Gerber-file.
 ## Exp 8: Design an Automatic street light circuit using Eagle software
 ## AIM:
 To design the schematic and PCB layout diagram of an automatic street light circuit using Eagle software.
@@ -42,8 +42,11 @@ The circuit functions by sensing the amount of light falling on the LDR and resp
 
 ## EXPECTED OUTPUT:
 ### Schematic diagram
- 
+![SCEMATIC EP4](https://github.com/user-attachments/assets/f2441039-afd9-453e-afe6-09a3a804bdf0)
+
+
 ### Layout diagram
- 
+![LAY EP4](https://github.com/user-attachments/assets/93c2bdf4-1aff-4af1-be59-ea177eddc0a2)
+
 ## RESULT:
 Thus, the schematic and PCB layout for the automatic street light circuit has been successfully designed using Eagle software.
